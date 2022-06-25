@@ -1,4 +1,4 @@
-# getx_srvices
+# Getx Service
 
 A new Flutter project.
 
