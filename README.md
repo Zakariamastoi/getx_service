@@ -1,6 +1,6 @@
 # Getx Service
 
-A new Flutter project.
+ Getx.
 
 ## Getting Started
 
